@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any corporation but in the future i hope work in the google or amazon 
 - 📫 How to reach me email: p.santosoloveira@gmail.com instagram: Pedro_felipe0501
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he
 - ⚡ Fun fact: i don't know
 
 <!---
